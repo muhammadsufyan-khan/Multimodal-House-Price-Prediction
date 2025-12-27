@@ -106,9 +106,9 @@ plt.ylabel("MAE")
 plt.legend()
 plt.show()
 
-<img width="590" height="465" alt="image" src="https://github.com/user-attachments/assets/ab148fa6-0120-49fd-a362-139ebe05fddc" />
-
 ```
+<img width="590" height="465" alt="image" src="https://github.com/user-attachments/assets/b9ba64a4-2e8c-4f98-b99e-49700723aa1c" />
+
 ## 🚀 How to Use
 
 1.Clone Repository
