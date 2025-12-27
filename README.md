@@ -123,7 +123,7 @@ jupyter notebook notebooks/multimodal.py
 ```
 Or run the Python script directly:
 ```
-python src/multimodal.py
+python multimodal.py
 ```
 ## 💡 Key Insights
 
