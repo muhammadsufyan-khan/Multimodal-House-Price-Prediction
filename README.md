@@ -113,7 +113,7 @@ plt.show()
 
 1.Clone Repository
 ```
-git clone https://github.com/your-username/multimodal-house-price-prediction.git
+git clone https://github.com/muhammadsufyan-khan/Multimodal-House-Price-Prediction.git
 cd multimodal-house-price-prediction
 ```
 2.Install Dependencies
