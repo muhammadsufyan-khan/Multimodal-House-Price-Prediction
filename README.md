@@ -105,6 +105,9 @@ plt.xlabel("Epochs")
 plt.ylabel("MAE")
 plt.legend()
 plt.show()
+
+<img width="590" height="465" alt="image" src="https://github.com/user-attachments/assets/ab148fa6-0120-49fd-a362-139ebe05fddc" />
+
 ```
 ## 🚀 How to Use
 
